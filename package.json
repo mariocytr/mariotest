@@ -1,0 +1,22 @@
+{
+  "name": "mariotest",
+  "version": "0.0.0",
+  "description": "mariotest\r =========",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariocytr/mariotest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariocytr/mariotest/issues"
+  },
+  "homepage": "https://github.com/mariocytr/mariotest",
+  "devDependencies": {
+    "chai": "^1.10.0"
+  }
+}
