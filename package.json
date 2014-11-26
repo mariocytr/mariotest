@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mariocytr/mariotest",
   "devDependencies": {
-    "chai": "^1.10.0"
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
   }
 }
