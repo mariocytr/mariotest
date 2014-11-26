@@ -1,7 +1,7 @@
 {
   "name": "mariotest",
   "version": "0.0.0",
-  "description": "mariotest\r =========",
+  "description": "It is just a test.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/mariocytr/mariotest.git"
   },
-  "author": "",
+  "author": "Mariusz Cytrycki",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mariocytr/mariotest/issues"
